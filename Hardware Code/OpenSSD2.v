@@ -8,8 +8,7 @@
 //Purpose     : IP block netlist
 //--------------------------------------------------------------------------------
 `timescale 1 ps / 1 ps
-//HELLO
-//C:\Users\softhoon\Desktop\2Ch8Way-1.0.3_uptodate_14\OpenSSD2_2Ch8Way-1.0.3\OpenSSD2.srcs\sources_1\bd\OpenSSD2\hdl
+
 
 module OpenSSD2
    (DDR_addr,
