@@ -1,5 +1,5 @@
 # CosmosFPGA
-This project and research is directed towards accelerating data bases by using a Cosmos FPGA.
+This project and research is directed towards accelerating data bases by using a Cosmos FPGA (XC7Z045-3FFG900 Zynq-7000).
 
 __for references__ http://www.openssd.io/
 
