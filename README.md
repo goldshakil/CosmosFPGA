@@ -31,10 +31,10 @@ Download Vivado HLS/Design Suite and SDK from [Here](https://www.xilinx.com/supp
 
 
 ## Other Resources:
-1) [Implemntation of heapsort on FPGA](http://koral.ise.pw.edu.pl/~wzab/artykuly/Heapsort_with_HLS_in_FPGA.pdf).
+1) [Implementation of heapsort on FPGA](http://koral.ise.pw.edu.pl/~wzab/artykuly/Heapsort_with_HLS_in_FPGA.pdf).
 2) [Improving HLS throughput](https://cseweb.ucsd.edu/~jmatai/presentations/FPGA2016_Resolve.pdf).
 3) [Improving HLS performance](http://users.ece.utexas.edu/~gerstl/ee382v_f14/soc/vivado_hls/VivadoHLS_Improving_Performance.pdf).
-4) [Measuring Latency in a Bare Metal Zynq Application](https://0xstubs.org/measuring-time-in-a-bare-metal-zynq-application/).
+4) [Measuring Latency on a Bare Metal Zynq Application](https://0xstubs.org/measuring-time-in-a-bare-metal-zynq-application/).
 
 
 
