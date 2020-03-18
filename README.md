@@ -5,7 +5,7 @@ This project and research is directed towards accelerating databases by using a 
 ## Goals of this project (Sub Projects):
 1) Connecting COSMOS FPGA to a host PC using Xillybus and then Implementing data transfer over PCIe.
 2) Accelerating SQLite by implementing an enhanced version of the merge sort algorithm on the FPGA.
-
+3) Implementing Projection/Selection on Cosmos+ FPGA.
 ### Pre-Requirements:
 Download Vivado HLS/Design Suite and SDK from [Here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2019-2.html).
 
