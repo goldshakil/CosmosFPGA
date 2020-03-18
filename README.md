@@ -29,6 +29,14 @@ Download Vivado HLS/Design Suite and SDK from [Here](https://www.xilinx.com/supp
 2) HLS Driver Function Manual [Here](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug902-vivado-high-level-synthesis.pdf).
 3) HLS General Manual [Here](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2017_1/ug871-vivado-high-level-synthesis-tutorial.pdf).
 
+## Part 3: Implementing Selection/Projection on Cosmos+ FPGA:
+### Requirements:
+1) HLS+SDK code for a Pseudo test in FPGA_Selection_Projection/Pseudo Test
+2) HLS+SDK code for an actual RAM table test in FPGA_Selection_Projection/RAM Table Test
+
+### Useful Resources:
+1) Tutorial on BRAM Interface/Module [HERE](https://www.youtube.com/watch?v=BUVbKonhc2w).
+
 
 ## Other Resources:
 1) [Implementation of heapsort on FPGA](http://koral.ise.pw.edu.pl/~wzab/artykuly/Heapsort_with_HLS_in_FPGA.pdf).
