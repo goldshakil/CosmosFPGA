@@ -20,9 +20,9 @@ Download Vivado HLS/Design Suite and SDK from [Here](https://www.xilinx.com/supp
 
 ## Part 2: Implementing Enhanced Merge Sort on Cosmos+ FPGA:
 ### Requirements:
-1) HLS Code in the src directory.
+1) HLS Code in the FPGA_Merge_Sort directory.
 2) Block Diagram (can be obtained by following the tutorial [Here](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD/blob/master/doc/Cosmos%2B%20OpenSSD%202017%20Tutorial.pdf).
-3) SDK Code in the src directory.
+3) SDK Code in the FPGA_Merge_Sort directory.
 
 ### Useful Resources:
 1) HLS Tutorials [Here](https://www.youtube.com/watch?v=aDaJIRoTlzQ&list=PLo7bVbJhQ6qzK6ELKCm8H_WEzzcr5YXHC&index=5).
