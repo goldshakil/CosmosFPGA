@@ -9,7 +9,7 @@ This project and research is directed towards accelerating databases by using a 
 ### Pre-Requirements:
 Download Vivado HLS/Design Suite and SDK from [Here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2019-2.html).
 
-## Part 1: Connecting COSMOS FPGA to a host PC over PCIe.
+## Part 1: Connecting COSMOS FPGA to a host PC over PCIe:
 ### Requirements: 
 1) Cosmos+ board (can be obtained [Here](http://www.openssd.io/)).
 2) Xillybus bundle (can be obtained [Here](http://xillybus.com/downloads/xillybus-eval-zynq-pcie-2.0d.zip)).
