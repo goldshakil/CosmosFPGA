@@ -44,6 +44,8 @@ Download Vivado HLS/Design Suite and SDK from [Here](https://www.xilinx.com/supp
 3) [Improving HLS performance](http://users.ece.utexas.edu/~gerstl/ee382v_f14/soc/vivado_hls/VivadoHLS_Improving_Performance.pdf).
 4) [Measuring Latency on a Bare Metal Zynq Application](https://0xstubs.org/measuring-time-in-a-bare-metal-zynq-application/).
 
+### Please create an issue if you have any questions.
+
 
 
 
